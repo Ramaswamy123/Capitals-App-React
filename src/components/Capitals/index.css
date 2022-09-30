@@ -1,0 +1,50 @@
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-container {
+  width: 30%;
+  height: 200px;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  /* padding-left: 35px; */
+  align-items: center;
+}
+.country-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+}
+.scroll-box {
+  width: 110px;
+  height: 30px;
+  padding: 5px;
+  margin-right: 10px;
+}
+.select-container {
+  display: flex;
+  align-items: center;
+}
+.para {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+.result {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+}
+.option {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
